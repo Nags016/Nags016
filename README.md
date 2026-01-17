@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👨‍🚀 Nagaraj Bhat  
+#   Nagaraj Bhat  
 ### Automation & Robotics Engineer | Autonomous Systems | Drone Technology
 
 ---
