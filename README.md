@@ -1,5 +1,106 @@
 # 💫 About Me:
-I'm an automation and robotics student working on the drone club currently i'm working on the vision learning model(VLM) and large language model(LLM)<br>I'm working in our student club as an automation and robotics engineer in drone industry we participates in SAEINDIA competations <br>and we got AIR1 in aerothon 2025<br>I have the in depth knowledge in ROS2 and gazebo simulation and also had a experience with the airsim simulation<br>Known programming languages are c c++ python and started learning rust <br>know about PX4 integration and all <br>RobotStudio simulation <br>Solidworks Designing<br>EasyEDA PCB designing<br>MATLAB SIMULINK Simulation - like PX4 integration etc
+# 👨‍🚀 Nagaraj Bhat  
+### Automation & Robotics Engineer | Autonomous Systems | Drone Technology
+
+---
+
+## 🚀 About Me
+
+I am an **Automation and Robotics Engineering student** with a strong focus on **autonomous aerial systems**, **robot intelligence**, and **simulation-driven development**. I actively work in the **drone industry domain** through my student technical club, contributing as an **Automation & Robotics Engineer** to the design, simulation, and deployment of intelligent UAV systems.
+
+I am currently involved in advanced research and development on **Vision-Language Models (VLMs)** and **Large Language Models (LLMs)** with applications in **robot perception, decision-making, and autonomy**. My work emphasizes bridging **AI models with real-world robotic systems** using simulation-first methodologies and hardware-aware integration.
+
+🏆 **Achievement**:  
+- **All India Rank 1 (AIR-1)** — **Aerothon 2025**, under **SAEINDIA**, competing against top engineering institutions nationwide.
+
+---
+
+## 🛠️ Core Technical Expertise
+
+### 🤖 Robotics & Autonomy
+- **ROS 2 (Humble / Iron)** — Node architecture, lifecycle management, Nav2, sensor fusion, TF2
+- **Gazebo Simulation** — Physics-based robot & UAV simulation
+- **AirSim** — High-fidelity UAV simulation for perception and autonomy testing
+- **PX4 Autopilot Integration** — SITL/HITL workflows, MAVLink, ROS–PX4 bridge
+- **Reinforcement Learning for Robotics** — DQN-based controllers, autonomous navigation
+
+### 🧠 Artificial Intelligence & Machine Learning
+- **Vision Learning Models (VLMs)** for perception-driven autonomy
+- **Large Language Models (LLMs)** for robotic reasoning, code generation, and planning
+- **Deep Learning Frameworks** — PyTorch-based model development
+- **AI for Industrial & Robotic Automation**
+
+### 🧪 Simulation & Modeling
+- **MATLAB / SIMULINK**
+  - Control system modeling
+  - PX4 integration & system-level simulations
+- **RobotStudio**
+  - Industrial robot simulation and offline programming
+- **Digital Twin Concepts** for robotic systems
+
+---
+
+## 💻 Programming & Software Skills
+
+| Language | Proficiency |
+|--------|-------------|
+| **C** | Embedded & low-level systems |
+| **C++** | Robotics middleware, performance-critical systems |
+| **Python** | AI, ROS 2, automation, simulations |
+| **Rust** | Learning (safe systems programming) |
+
+---
+
+## 🧩 Design & Hardware
+
+- **SolidWorks**
+  - Mechanical design for UAVs and robotic systems
+- **EasyEDA**
+  - PCB design and schematic development
+- **Embedded Systems**
+  - Sensor integration, control logic, actuator interfacing
+
+---
+
+## 🚁 Drone & Aerospace Experience
+
+- Autonomous drone architecture design
+- Vision-based navigation and obstacle avoidance
+- Control systems for aerial platforms
+- SAEINDIA competition-oriented system engineering
+- End-to-end pipeline: **Design → Simulation → Control → Autonomy**
+
+---
+
+## 📌 Current Focus Areas
+
+- Vision–Language Models for robotics
+- LLM-assisted autonomous decision-making
+- AI-driven robotic code generation
+- PX4–ROS 2 deep integration
+- High-fidelity simulation before real-world deployment
+
+---
+
+## 🎯 Philosophy
+
+> *“Simulation-first development, AI-driven autonomy, and hardware-aware engineering are the foundations of safe and scalable robotics.”*
+
+I strongly believe in **engineering systems that think, adapt, and perform reliably in real-world conditions** — not just in theory.
+
+---
+
+## 📫 Let’s Connect
+
+- Robotics & Autonomous Systems
+- AI for Drones & Industrial Automation
+- Simulation, Control Systems & Digital Twins
+- Open-source collaboration & research projects
+
+---
+
+⭐ *If you find my work interesting, feel free to explore my repositories and contribute!*
+
 
 
 ## 🌐 Socials:
