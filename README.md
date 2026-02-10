@@ -11,7 +11,8 @@ I am an **Automation and Robotics Engineering student** with a strong focus on *
 I am currently involved in advanced research and development on **Vision-Language Models (VLMs)** and **Large Language Models (LLMs)** with applications in **robot perception, decision-making, and autonomy**. My work emphasizes bridging **AI models with real-world robotic systems** using simulation-first methodologies and hardware-aware integration.
 
 🏆 **Achievement**:  
-- **All India Rank 1 (AIR-1)** — **Aerothon 2025**, under **SAEINDIA**, competing against top engineering institutions nationwide.
+- **All India Rank 1 (AIR-1)** — **Aerothon 2025**, under **SAEINDIA**, competing against top institutions nationwide.
+- **All India Rank 2 (AIR-2)** _**Autonomous Drone Development Challenge(ADDC) 2026**, competing against top institutions nationwide.
 
 ---
 
